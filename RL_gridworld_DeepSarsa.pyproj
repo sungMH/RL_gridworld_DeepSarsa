@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>12e3ba8c-d98d-4f0e-b099-f67940d0b8ed</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>RL_gridworld_DeepSarsa.py</StartupFile>
+    <StartupFile>train.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,7 +24,7 @@
     <Compile Include="environment.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="RL_gridworld_DeepSarsa.py" />
+    <Compile Include="train.py" />
     <Compile Include="test.py">
       <SubType>Code</SubType>
     </Compile>
