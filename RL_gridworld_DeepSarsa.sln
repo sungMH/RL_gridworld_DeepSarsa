@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RL_gridworld_DeepSarsa", "RL_gridworld_DeepSarsa.pyproj", "{12E3BA8C-D98D-4F0E-B099-F67940D0B8ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E3BA8C-D98D-4F0E-B099-F67940D0B8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E3BA8C-D98D-4F0E-B099-F67940D0B8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {216C1AEC-7531-403B-8B24-59444892C8BA}
+	EndGlobalSection
+EndGlobal
